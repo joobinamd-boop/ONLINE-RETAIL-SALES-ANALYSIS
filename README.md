@@ -1,6 +1,6 @@
 ## EXICUTIVE SUMMMARY
 
-This project analysis online retail sales data using Python, Pandas, and Power BI. The analysis focause on sales performance, orders, product performance, and country wise sales.
+This project analysis online retail sales data using Python, Pandas, and Power BI. The analysis focus on sales performance, orders, product performance, and country wise sales.
 
 ---
 ## TOOLS USED
