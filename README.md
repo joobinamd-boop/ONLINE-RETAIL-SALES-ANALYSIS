@@ -20,7 +20,7 @@ This project analysis online retail sales data using Python, Pandas, and Power B
 ---
 ## POWER BI DASHBOARD
 
-<img width="1772" height="801" alt="Screenshot 2026-09-26 135349" src="https://github.com/user-attachments/assets/46eb2f34-10c9-4cf6-91f1-5b95c9259cea" />
+<img width="1772" height="812" alt="Screenshot 2026-09-29 124357" src="https://github.com/user-attachments/assets/54ebbe9d-1b49-41c1-b2ab-62e1c18e4cc2" />
 
 *Total Sales* – Understand the overall sales generated.
 - *Total Orders* – Understand the total number of orders.
